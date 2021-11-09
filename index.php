@@ -2,7 +2,7 @@
 
 	<?php get_template_part( 'slider' ); ?>
 
-		<!-- Content
+		<!-- Content content
 		============================================= -->
 		<section id="content">
 
